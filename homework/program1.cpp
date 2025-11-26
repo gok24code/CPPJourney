@@ -21,7 +21,7 @@ int main() {
 		cout << "2.Sensor: (" << sensor_val2 << ") " << status2 << endl;
 		cout << "3.Sensor: (" << sensor_val3 << ") " << status3 << endl;
 		cout << "4.Sensor: (" << sensor_val4 << ") " << status4 << endl;
-		cout << "5sSensor: (" << sensor_val5 << ") " << status5 << endl;
+		cout << "5.Sensor: (" << sensor_val5 << ") " << status5 << endl;
 
 		system("pause");
 	return 0;

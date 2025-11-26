@@ -1,11 +1,11 @@
-Temp checker <br>
+Temp Checker <br>
 <a href = "">file</a> <br>
 <img href = "" alt = "image">
 <hr>
-Postoffice robot capacity algorythm <br>
+Postoffice Robot Capacity Algorythm <br>
 <a href = "">file</a>
 <img href = "" alt = "image">
 <hr>
-Class exam results <br>
+Class Exam Results <br>
 <a href = "">file</a>
 <img href = "" alt = "image">

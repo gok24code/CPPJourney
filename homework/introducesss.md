@@ -1,4 +1,4 @@
-Temp Checker <br>
+Smart Greenhouse Temp Checker <br>
 <ul>
   <li>
     <a href = "">source code</a>
@@ -7,7 +7,7 @@ Temp Checker <br>
     <a href = "">output screeshot</a>
   </li>
 </ul> <br>
-Postoffice Robot Capacity Algorythm <br>
+Postoffice Autonomous Robot Capacity Algorythm <br>
 <ul>
   <li>
     <a href = "">source code</a>

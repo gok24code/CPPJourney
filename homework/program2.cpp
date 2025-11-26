@@ -3,11 +3,16 @@
 using namespace std;
 
 int main() {
+
+	/*Program started signal*/
 	cout << " KARGO YUKLEME PROGRAMINA HOSGELDINIZ. YUKLENIYOR..." << endl;
 
+	/*Variables*/
 	int capacity = 100;
 	int weights[] = { 20, 30, 40, 50, 10 };
 
+
+	/*Package taking loop*/
 	for (int i = 0; i < 5; i++) {
 		if (capacity - weights[i] >= 0) {
 			capacity -= weights[i];

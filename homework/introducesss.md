@@ -1,9 +1,9 @@
-#temp checker
+Temp checker
 <a href = "">file</a>
 <img href = "" alt = "image">
-#postoffice robot capacity algorythm
+Postoffice robot capacity algorythm
 <a href = "">file</a>
 <img href = "" alt = "image">
-#class exam results
+Class exam results
 <a href = "">file</a>
 <img href = "" alt = "image">

@@ -1,27 +1,27 @@
 Smart Greenhouse Temp Checker <br>
 <ul>
   <li>
-    <a href = "">source code</a>
+    <a href = "https://github.com/gok24code/CPPJourney/blob/main/homework/program1.cpp">source code</a>
   </li>
   <li>
-    <a href = "">output screeshot</a>
+    <a href = "https://github.com/gok24code/CPPJourney/blob/main/homework/screenshot%20(1).png">output screeshot</a>
   </li>
 </ul> <br>
 Postoffice Autonomous Robot Capacity Algorythm <br>
 <ul>
   <li>
-    <a href = "">source code</a>
+    <a href = "https://github.com/gok24code/CPPJourney/blob/main/homework/program2.cpp">source code</a>
   </li>
   <li>
-    <a href = "">output screeshot</a>
+    <a href = "https://github.com/gok24code/CPPJourney/blob/main/homework/screenshot%20(2).png">output screeshot</a>
   </li>
 </ul> <br>
 Class Exam Results Calculator <br>
 <ul>
   <li>
-    <a href = "">source code</a>
+    <a href = "https://github.com/gok24code/CPPJourney/blob/main/homework/program3.cpp">source code</a>
   </li>
   <li>
-    <a href = "">output screeshot</a>
+    <a href = "https://github.com/gok24code/CPPJourney/blob/main/homework/screenshot%20(3).png">output screeshot</a>
   </li>
 </ul> <br>

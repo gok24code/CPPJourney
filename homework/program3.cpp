@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	/* Deðiþken tanýmlamalarý*/
+	/* Variables*/
 	int greaterint = 0;
 	int cacheint1 = 0;
 	int cacheint2 = 0;
@@ -15,7 +15,7 @@ int main() {
 	int average = 0;
 	
 
-	/*En büyük notu bulma iþlemi*/
+	/*Detecting greater point*/
 	for (int i = 0; i <7; i++) {
 		if (grades[i] < grades[i + 1]) {
 			cacheint1 = grades[i+1];
@@ -27,13 +27,13 @@ int main() {
 		}
 
 	}
-	/*En yüksek notun indexi*/
+	/*Finding greater point's index of in array*/
 	for (int i = 0; i < 8; i++) {
 		if (grades[i] == greaterint) {
 			founded_greater_index = i;
 		}
 	}
-	/*En az olan notu bulma iþlemi*/
+	/*Detecting less point*/
 	for (int i = 0; i < 7; i++) {
 		if (grades[i] > grades[i + 1]) {
 			cacheint2 = grades[i + 1];
@@ -46,7 +46,7 @@ int main() {
 	}
 
 
-	/*Ortalama Hesaplamasý*/
+	/*Average Calculating*/
 
 	for (int i = 0; i < 8; i++) {
 		sum += grades[i];
@@ -54,7 +54,7 @@ int main() {
 
 	}
 	
-	/*Kalma geçme durumu*/
+	/*Pass of Fail situation*/
 	for (int i = 0; i < 8; i++) {
 		if (grades[i] >= average) {
 			cout << grades[i] << " GECTI." << endl;
@@ -64,7 +64,7 @@ int main() {
 		}
 
 	}
-	/*En yüksek ve en düþük notu ekrana yazdýrma*/
+	/*Printing max and min point to screen*/
 	cout << greaterint << " EN BUYUK NOTTUR." << " Bu not " << founded_greater_index << ". indistedir. " << lessint << " EN KUCUK NOTTUR." << endl;
 
 

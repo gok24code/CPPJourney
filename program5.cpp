@@ -5,18 +5,26 @@ using namespace std;
 int main(){
 	//----------------------------------------------------------------------------------------------------------------------
 	//Line þeklinde input Girme ve Bu inputun içerisini kelime kelime bölüp bir string dizisine kaydetme iþlemi.
+
+	//input
 	cout << "Adýnýzý Soyadýnýzý Girin: " << endl;
 	string ad_soyad;
 	getline(cin,ad_soyad);
 
+
+	//inputun sonunda for un içinde kelimenin bittiðini anlamak için boþluk charýný algýlama olayýndan dolayý sonuna boþluk ekleme
 	if (ad_soyad.back() != ' ') {
 		ad_soyad += ' ';
 	}
 
+
+	//ayrýacaðýmýz kelimelerin listelemesi için dizi oluþturma
 	string kelimeler[10];
 	int kelimeSayisi = 0;
 	string cache = "";
 	
+
+	//yazýlan line inputun içerisindeki kelimeleri analiz etme ve dizi içerisine yazdýrma
 	for (int i = 0; i < ad_soyad.length(); i++) {
 		char charizard = ad_soyad[i];
 		cache += charizard;

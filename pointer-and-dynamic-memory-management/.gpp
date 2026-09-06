@@ -1,0 +1,14 @@
+#include <iostream>
+//linkedlists linear.
+struct Node {
+    int data;
+    Node* link;
+  }
+
+
+class LinkedList{
+    Node* head;
+    LinkedList(){
+      head = NULL;
+      }
+  }

@@ -34,6 +34,6 @@
       <a href = "https://github.com/gok24code/CPPJourney/blob/main/test.cpp">project3</a>
   </li>
   <li>
-     <a href = "https://github.com/gok24code/CPPJourney/blob/main/pointer-and-dynamic-memory-management/doubly_linkedlists.cpp">pointer logic with doubly linked lists</a>
+     <a href = "https://github.com/gok24code/CPPJourney/blob/main/pointer-and-dynamic-memory-management">pointer logic with linked lists</a>
     </li>
 </ul>

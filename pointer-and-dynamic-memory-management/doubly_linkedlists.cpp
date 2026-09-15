@@ -27,7 +27,7 @@ class list{
     if(head == NULL) {return;}
     if(head->front == NULL) {delete head; head = NULL; return;
     }
-    Node* temp;
+    node* temp;
     temp = head;
     head = head->front;
     head->back = NULL; // çift taraflı olduğu zaman listelerde düğüm cuthead üzerinde hem ön hem arka bağlantıları değişiklikte kontrol et.

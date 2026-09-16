@@ -8,7 +8,8 @@ struct node{
 };
 
 class list{
-  node* head;
+   node* head;
+public:
   list(){
     head = NULL;
   }
@@ -86,6 +87,8 @@ class list{
   }
 };
 
+
+//ana fonksiyon
 int main (int argc, char *argv[]) {
   return 0;
 }

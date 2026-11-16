@@ -2,7 +2,7 @@
 
 <h4>Source Codes:</h4>
 
-<h6>a. The projects made while in the programming classroom</h6>
+<h6>a. The projects made while in the programming classroom && Mostly my learning scope. </h6>
 
 <ul>
   <li>

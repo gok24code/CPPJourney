@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gok24code/Documents/GitHub/cppjourney/test/output/two'
+relocations:     []
+...
